@@ -27,9 +27,13 @@ Finance student at Rutgers University with interests in corporate finance, finan
 
 Developed and compared multiple predictive models to classify companies based on financial health. Evaluated model performance using accuracy, recall, F1 score, confusion matrices, and expected profitability to determine the most effective model.
 
+*Project materials are not available.*
+
 ### Population & Economic Indicator Forecasting | Excel
 
 Analyzed historical population, fertility, and life expectancy data and developed forecasting models in Excel. Compared model performance using holdout periods and MAPE to identify the most accurate forecasting approach.
+
+*Project materials are not available.*
 
 ### M&A Acquisition Analysis | Finance Internship
 
